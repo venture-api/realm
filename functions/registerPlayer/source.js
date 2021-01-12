@@ -30,6 +30,6 @@ exports = function(authEvent) {
     Learn more about http client here: https://docs.mongodb.com/realm/functions/context/#context-http
   */
   
-  console.log('got auth event', authEvent)
+  console.log('got auth event:', authEvent)
   
 };
