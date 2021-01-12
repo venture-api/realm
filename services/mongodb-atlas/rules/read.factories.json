@@ -1,0 +1,15 @@
+{
+    "collection": "factories",
+    "database": "read",
+    "roles": [
+        {
+            "name": "player",
+            "apply_when": {},
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        }
+    ],
+    "schema": {}
+}

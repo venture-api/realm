@@ -1,0 +1,14 @@
+{
+    "app_id": "gate-qhorm",
+    "config_version": 20200603,
+    "name": "gate",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "security": {},
+    "custom_user_data_config": {
+        "enabled": false
+    },
+    "sync": {
+        "development_mode_enabled": false
+    }
+}
